@@ -22,5 +22,5 @@ Either way, if it is a bash script, make sure to set the permission:
 
 
 Please feel free to:
-- Replicate them or re-use them as you see fit
-- If you do use the scripts in any way commercial or publication, a little shoutout back to this Git repo will be very nice ;)
+- Modity them or re-use them as you see fit
+- If you do use the scripts for commercial or publication, a little shoutout back to this Git repo will be very nice ;)
